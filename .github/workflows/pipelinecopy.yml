@@ -34,4 +34,4 @@ jobs:
         run: |
           echo "Deploying application..."
           sleep 5
-          echo "Deploy complete."
+          echo "Deploy complete."
